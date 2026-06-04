@@ -3,7 +3,7 @@ s3_01_init_and_first_commit.py
 ================================
 3교시 §3·§5 — git init / status / add / commit / log 첫 사이클 실습.
 
-이 스크립트가 하는 일
+이 스크립트가 하는  일
 --------------------
 1. ~/git-tutorial-playground/hello-git 폴더를 깨끗이 만든다.
 2. 그 안에 'git이 아직 모르는' 샘플 파일 3개를 만든다 (Untracked 상태).
